@@ -1,11 +1,11 @@
-body{background-color:rgb(5, 5, 5);
+body{background-color:#f4flea;
 color; #222222;
 font-family; Arial, sans-serif;
 margin: 0;
 }
 header {
-    background-color:rgb(214, 236, 196);
-    color: rgb(0, 0, 0);
+    background-color:#f6b2d5c;
+    color:white;
 text-align: center;
 padding: 30px;
     
@@ -34,7 +34,7 @@ margin: 5px;
 display: inline-block;
 }
  nav a:hover {
-    background-color: rgb(0, 0, 0);
+    background-color:#c77dff;
  }
 
  main {
@@ -56,10 +56,10 @@ figcaption {
 }
 
 card {
-    background-color: crimson;
+    background-color: #f39fa;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid white;
+    border-left: 6px solid #6d2d5c;
     border-radius: 10px;
 }
 
@@ -68,7 +68,7 @@ card h3 {
 }
 
 footer {
-    background-color: azure;
+    background-color:#222222;
     color: white;
     text-align: center;
     padding: 20px
