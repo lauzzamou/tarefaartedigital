@@ -13,3 +13,9 @@ const botoesCurtir = document.querySelectorAll(".curtir");
                 }
                 } 
             });
+            constbtnTema = document.querySelector ("btn-tema");
+            btnTema.addEventListener("click", mudarTema);
+            function mudarTema (){
+              documenent.body.classList.toggle("tema-escuro");
+            }
+
